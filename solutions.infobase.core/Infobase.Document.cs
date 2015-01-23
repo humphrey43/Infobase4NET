@@ -7,5 +7,6 @@ namespace solutions.infobase.core
 {
     public class InfobaseDocument
     {
+
     }
 }
